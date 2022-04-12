@@ -1,5 +1,5 @@
 # Meu-Primeiro-Repositorio-DIO-Desafio-Github
-Projeto - Criando meu primeiro repositório git/github
+Desafio - Criando meu primeiro repositório git/github
 
 
 ## Links Úteis
